@@ -1,5 +1,3 @@
-# backend.py
-
 from langgraph.graph import StateGraph, START
 from typing import TypedDict, Annotated
 from langchain_core.messages import BaseMessage, HumanMessage
